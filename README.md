@@ -3,16 +3,16 @@ A list of awesome companies/organizations that **contribute** open source R soft
 
 To add an organization, simply send a pull request. 
 
-An organization is a (potentially legal) entity that has more than 1 member. Ideally there is a GitHub account as well or some other website that shows the open source activity of that organization.
+An organization is a (potentially legal) entity that has more than 1 member. Ideally there is a GitHub organization as well or some other website that shows the open source activity of that organization.
 
 ## For-profit
 
-* [RStudio](https://www.rstudio.com)
+* [RStudio](https://github.com/rstudio)
 * ...
 
 ## Non-profit
 
-* [rOpenSci](https://ropensci.org/)
+* [rOpenSci](https://github.com/ropensci)
 * ...
 
 ## Public Sector
