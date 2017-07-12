@@ -1,13 +1,14 @@
 # awesome-r-organizations
 A list of awesome companies/organizations that **contribute** open source R software. 
 
-## Companies
+## For-profit
 
 * [RStudio](https://www.rstudio.com)
 * ...
 
-## NGOs
+## Non-profit
 
+* [rOpenSci](https://ropensci.org/)
 * ...
 
 ## Public Sector
