@@ -15,6 +15,7 @@ An organization is a (potentially legal) entity that has more than 1 member. Ide
 
 * [rOpenSci](https://github.com/ropensci)
 * [R-Ladies](https://github.com/rladies)
+* [R Epidemics Consortium](https://github.com/reconhub)
 * ...
 
 ## Public Sector
