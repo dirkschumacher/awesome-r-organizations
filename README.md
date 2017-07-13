@@ -10,6 +10,7 @@ An organization is a (potentially legal) entity that has more than 1 member. Ide
 * [RStudio](https://github.com/rstudio)
 * [ThinkR](https://github.com/ThinkRstat)
 * [Locke Data](https://github.com/lockedata)
+* [Microsoft](https://github.com/Microsoft) (including [Azure](https://github.com/Azure/))
 * ...
 
 ## Non-profit
