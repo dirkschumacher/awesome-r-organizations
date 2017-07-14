@@ -7,12 +7,14 @@ An organization is a (potentially legal) entity that has more than 1 member. Ide
 
 ## For-profit
 
+
 * [Appsilon Data Science](https://github.com/Appsilon)
 * [BeDataDriven](https://github.com/bedatadriven)
 * [Locke Data](https://github.com/lockedata)
 * [Microsoft](https://github.com/Microsoft) (including [Azure](https://github.com/Azure/))
 * [RStudio](https://github.com/rstudio)
 * [ThinkR](https://github.com/ThinkRstat)
+* [Jumping Rivers](https://github.com/jumpingrivers)
 * ...
 
 ## Non-profit
