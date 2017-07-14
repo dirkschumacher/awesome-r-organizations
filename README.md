@@ -26,6 +26,7 @@ An organization is a (potentially legal) entity that has more than 1 member. Ide
 
 ## Public Sector
 
+* [U.S. Environmental Protection Agency](https://github.com/USEPA)
 * [United States Geological Survey](https://github.com/USGS-R)
 * ...
 
