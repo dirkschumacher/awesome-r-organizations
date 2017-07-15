@@ -9,10 +9,10 @@ An organization is a (potentially legal) entity that has more than 1 member. Ide
 
 * [Appsilon Data Science](https://github.com/Appsilon)
 * [BeDataDriven](https://github.com/bedatadriven)
-* [DataCamp](https://github.com/datacamp/)
-* [Jumping Rivers](https://github.com/jumpingrivers/)
+* [DataCamp](https://github.com/datacamp)
+* [Jumping Rivers](https://github.com/jumpingrivers)
 * [Locke Data](https://github.com/lockedata)
-* [Microsoft](https://github.com/Microsoft) (including [Azure](https://github.com/Azure/))
+* [Microsoft](https://github.com/Microsoft) (including [Azure](https://github.com/Azure))
 * [RStudio](https://github.com/rstudio)
 * [ThinkR](https://github.com/ThinkRstat)
 * ...
@@ -28,6 +28,7 @@ An organization is a (potentially legal) entity that has more than 1 member. Ide
 
 ## Public Sector
 
+* [European Centre for Medium-Range Weather Forecasts](https://github.com/ecmwf)
 * [U.S. Environmental Protection Agency](https://github.com/USEPA)
 * [United States Geological Survey](https://github.com/USGS-R)
 * ...
