@@ -19,6 +19,7 @@ An organization is a (potentially legal) entity that has more than 1 member. Ide
 
 ## Non-profit
 
+* [International Council for the Exploration of the Sea](https://github.com/ices-tools-prod)
 * [rOpenSci](https://github.com/ropensci)
 * [R-Ladies](https://github.com/rladies)
 * [R Epidemics Consortium](https://github.com/reconhub)
