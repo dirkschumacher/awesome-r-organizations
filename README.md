@@ -13,6 +13,7 @@ An organization is a (potentially legal) entity that has more than 1 member. Ide
 * [dreamRs](https://github.com/dreamRs)
 * [Jumping Rivers](https://github.com/jumpingrivers)
 * [Locke Data](https://github.com/lockedata)
+* [Mango Solutions](https://github.com/mangothecat)
 * [Microsoft](https://github.com/Microsoft) (including [Azure](https://github.com/Azure))
 * [RStudio](https://github.com/rstudio)
 * [ThinkR](https://github.com/ThinkRstat)
