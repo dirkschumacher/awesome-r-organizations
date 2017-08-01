@@ -11,21 +11,24 @@ An organization is a (potentially legal) entity that has more than 1 member. Ide
 * [BeDataDriven](https://github.com/bedatadriven)
 * [DataCamp](https://github.com/datacamp)
 * [dreamRs](https://github.com/dreamRs)
+* [H2O.ai](https://github.com/h2oai)
 * [Jumping Rivers](https://github.com/jumpingrivers)
 * [Locke Data](https://github.com/lockedata)
 * [Mango Solutions](https://github.com/mangothecat)
 * [Microsoft](https://github.com/Microsoft) (including [Azure](https://github.com/Azure))
 * [RStudio](https://github.com/rstudio)
 * [ThinkR](https://github.com/ThinkRstat)
+* [Win Vector LLC](https://github.com/WinVector)
 * ...
 
 ## Non-profit
 
 * [International Council for the Exploration of the Sea](https://github.com/ices-tools-prod)
-* [rOpenSci](https://github.com/ropensci)
-* [R-Ladies](https://github.com/rladies)
 * [R Epidemics Consortium](https://github.com/reconhub)
+* [R-Ladies](https://github.com/rladies)
 * [rOpenGov](https://github.com/rOpenGov)
+* [rOpenHealth](https://github.com/rOpenHealth)
+* [rOpenSci](https://github.com/ropensci)
 * [Wikimedia Foundation](https://github.com/wikimedia)
 * ...
 
